@@ -1,0 +1,180 @@
+
+div.gallery {
+  margin: 6px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+.gallery:after {
+  content: "";
+  display: table;
+  clear: both;
+} 
+
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+
+
+div {
+    text-align: center;
+}
+
+
+nav {
+    margin-top: 20px;
+    text-align: center;
+    font-size: 1.5em;
+    background-color: white;
+    height: 1.5em;
+    padding-top: 4px;
+    box-shadow: 0px 10px 50px 0, 0px 10px 20px 0;
+}
+
+a {
+    font-weight: bold;
+    font-family: fantasy;
+    text-decoration: none;
+    padding: 65px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    color: darkmagenta;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+#logoElement {
+    padding: 0px;
+}
+
+.galleryImg {
+    padding: 0px;
+}
+
+label {
+    font-family: Georgia;
+}
+
+div.Names {
+    width: 49%;
+    /*border: 1px solid magenta;*/
+    float: left;
+    margin: 3px;
+}
+div.reviews {
+    width: 100%;
+    margin-left: 5px;
+    margin-top: 50px;   
+    margin-bottom: 1px;
+}
+
+
+div.logoSloganContainer {
+    /* width: 49.5%;
+    margin-left: 25.1%;
+    margin-right: 25%; */
+    height: 165px;
+    border: 1px solid white;
+    background-color: white;
+    box-shadow: 0px 10px 50px 0, 0px 10px 20px 0;
+}
+
+div.Logo {
+    float: left;
+    margin: 10px;
+    margin-left: 20px;
+    margin-right: 0px;
+    /*border: 1px solid white;*/
+}
+
+h1#slogan {
+    font-size: 4em;
+}
+
+div.info {
+    text-align: center;
+}
+
+div.infoWrap {
+    margin: 5%;
+    margin-top: 0%;
+    margin-bottom: 0px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 0px;
+}
+
+body {
+    /*background-color: magenta;*/
+    background-image:url("../Images/Background(1).jpg");
+    background-repeat: repeat;
+}
+
+div.ContentContainer {
+    /*background-color: white;*/
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+div.photoReel {
+    margin-top: 50px;
+    margin-left: 8.5%;
+}
+
+div.mainContent {
+    background-color: white;
+    box-shadow: 0px 10px 50px 0, 0px 10px 20px 0;
+    padding-top: 1px;
+    padding-bottom: 10px;
+}
+
+div#formContainer {
+    
+}
+
+footer {
+    background-color: white;
+    box-shadow: 0px 10px 50px 0, 0px 10px 20px 0;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+
+br.smallGap {
+        display: block; /* makes it have a width */
+        content: ""; /* clears default height */
+        margin-top: -5px; /* change this to whatever height you want it */
+}
+
+p {
+    font-family: Georgia;
+}
+h1 {
+    font-family: Georgia;
+    text-decoration: underline;
+}
+h1#slogan {
+    text-decoration: none;
+    font-style: italic;
+    margin-top: -7px;
+    font-size: 4.63em;
+}
+h2 {
+    font-family: Georgia;
+}
