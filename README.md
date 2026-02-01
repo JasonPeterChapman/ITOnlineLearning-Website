@@ -1,5 +1,6 @@
-<Header>ITOnlineLearning Website Project</Header>
-
+<Header><strong>ITOnlineLearning Website Project</strong></Header>
+<br>
+<br>
 <P>
   This website project was developed as part of my course at ITOnlineLearning, particularly at the culmination of the HTML section.
   The scenario was to create a website as a demonstration of the information I was taught over the duration of the HTML course.
